@@ -1,3 +1,3 @@
 # Title
 ## Title
-![name iamge](/path)
+![test](sample.png)
