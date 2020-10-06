@@ -12,5 +12,7 @@ Tdoifhgasdklfgaslkdjfalskdjfhlaksjdfhlkasdjfhalksjdfh
 `kjsdhflksjdhf`
 
 <center>
-<img src="sample.png">
+<img src= "sample.png">
 </center>
+
+<a href= 'https://cseweb.ucsd.edu/~yfreund/papers/IntroToBoosting.pdf'>Reference 01 </a>
